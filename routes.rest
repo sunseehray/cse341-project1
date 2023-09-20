@@ -1,4 +1,8 @@
 // LOCALHOST
+
+### Get index
+GET http://localhost:3000
+
 ### Get all contancts
 GET http://localhost:3000/users
 
