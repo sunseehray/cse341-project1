@@ -16,7 +16,7 @@ Content-Type: application/json
 {
     "firstName": "Jason",
     "lastName": "Polinag",
-    "email": "jap@an.com",
+    "email": "any@a.com",
     "favoriteColor": "white",
     "birthday": "June 6, 1986"
 }
@@ -34,7 +34,7 @@ Content-Type: application/json
 }
 
 ### Delete contact
-DELETE http://localhost:3000/users/6512f4e1f06131e9fe3891cb
+DELETE http://localhost:3000/users/65139ae82a4f0d7d431f2c8d
 
 // ONRENDER
 
