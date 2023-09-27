@@ -3,7 +3,7 @@
 ### Get index
 GET http://localhost:3000
 
-### Get all contancts
+### Get all contacts
 GET http://localhost:3000/users
 
 ### Get contact by id
@@ -34,7 +34,7 @@ Content-Type: application/json
 }
 
 ### Delete contact
-DELETE http://localhost:3000/users/650aa53629977c41c7c7335b
+DELETE http://localhost:3000/users/6512f4e1f06131e9fe3891cb
 
 // ONRENDER
 
