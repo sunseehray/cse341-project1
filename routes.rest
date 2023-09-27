@@ -14,21 +14,21 @@ POST http://localhost:3000/users HTTP/1.1
 Content-Type: application/json
 
 {
-    "firstName": "Jason",
-    "lastName": "Polinag",
-    "email": "any@a.com",
+    "firstName": "test",
+    "lastName": "test",
+    "email": "e@mail.com",
     "favoriteColor": "white",
     "birthday": "June 6, 1986"
 }
 
 ### Update Contact
-PUT http://localhost:3000/users/65015e35203322cc8e6adedb HTTP/1.1
+PUT http://localhost:3000/users/6513c8b705067c3d13144ce9 HTTP/1.1
 Content-Type: application/json
 
 {
     "firstName": "Jose Lorenzo",
     "lastName": "Labicassi",
-    "email": "joey@newmail.com",
+    "email": "j@mail.com",
     "favoriteColor": "blue",
     "birthday": "March 13, 1986"
 }
